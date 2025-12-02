@@ -118,8 +118,6 @@ class _SebhaScreenState extends State<SebhaScreen>
                               width: width * 0.85,
                             ),
                           ),
-
-                          // النصوص (ثابتة)
                           Column(
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
